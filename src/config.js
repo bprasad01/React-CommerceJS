@@ -1,0 +1,1 @@
+export const config = 'https://foodielandnod.herokuapp.com/api/'
